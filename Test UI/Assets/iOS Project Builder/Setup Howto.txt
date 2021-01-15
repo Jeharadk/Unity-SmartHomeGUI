@@ -1,0 +1,19 @@
+Hello and thanks for your interest in this iOS Project Builder for Unity that will enable you to build and deploy Unity-powered iOS apps from the Windows side of the force.
+
+
+LEGAL FOREWORD
+
+In the license that comes with the iOS SDK, Apple Inc. states that the iOS SDK shall only be deployed on Apple-branded computers. So, for the rest of this document, I will assume that your Windows computer is an Apple-branded computer running Windows through Boot Camp. I am forced to not condone the use of this program outside this scope, and cannot be held responsible for any misuse you make of it.
+
+
+INSTALLATION
+
+1. Run the iOS Project Builder for Unity Installer to install the builder toolchain on Windows.
+
+2. Read (DO READ) the help file to learn how to finish the setup, import or create your digital signing identity, and finally how to build your iOS projects directly from Windows.
+
+This help file is located in your Windows Start menu, All programs, iOS Project Builder for Unity, Read me first.
+
+I hope you enjoy this product as much as I enjoyed creating it.
+
+								-- Pierre-Marie Baty
